@@ -2,8 +2,6 @@
 
 <p align="center"><a href="https://deepfake-detect.com/"><img alt="" src="https://github.com/aaronchong888/DeepFake-Detect/blob/master/img/dfdetect-home.png" width="60%"></a></p>
 
-<p align="center"><a href="https://deepfake-detect.com/">https://deepfake-detect.com/</a></p>
-
 ## Description
 
 This project aims to guide developers to train a deep learning-based deepfake detection model from scratch using [Python](https://www.python.org), [Keras](https://keras.io) and [TensorFlow](https://www.tensorflow.org). The proposed deepfake detector is based on the state-of-the-art EfficientNet structure with some customizations on the network layers, and the sample models provided were trained against a massive and comprehensive set of deepfake datasets. 
